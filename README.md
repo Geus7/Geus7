@@ -23,4 +23,4 @@ I'm familiar with:
 
 ## Coding in Action
 
-![Coding in Action](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/master/Animated%20gifs/Scientist/Scientist%20-%20Coding%20Freak.gif)
+![Coding in Action]([https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/master/Animated%20gifs/Scientist/Scientist%20-%20Coding%20Freak.gif](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif))
