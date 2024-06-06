@@ -7,9 +7,7 @@ Welcome to my GitHub profile! I'm passionate about AI, Natural Language Processi
 - 👨‍💻 AI enthusiast and web developer
 - 🌱 Currently learning Java and Python
 - 💼 Open to collaboration on web development projects
-- 📫 How to reach me: Geus7
-
-
+- 📫 How to reach me: [Geus7](link-to-your-profile)
 
 ## Technologies
 
@@ -19,13 +17,10 @@ I'm familiar with:
 - Tools: Git, Docker
 - Libraries: NLTK, TensorFlow
 
-
-
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Geus7&color=brightgreen)
 
 ## Coding in Action
 
-![Coding in Action]([link-to-gif-or-image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1wVdq_hdD-xnMlHtTqRKWT&ust=1717762560875000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCX7Kv6xoYDFQAAAAAdAAAAABAE))
-
+![Coding in Action](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/master/Animated%20gifs/Scientist/Scientist%20-%20Coding%20Freak.gif)
