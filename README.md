@@ -23,4 +23,4 @@ I'm familiar with:
 
 ## Coding in Action
 
-![Coding in Action](https://raw.githubusercontent.com/your-username/your-repository/master/path-to-your-gif.gif)
+![Coding in Action](https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif)
