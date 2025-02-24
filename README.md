@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about AI, Natural Language Processi
 I'm familiar with:
 
 - Languages: Java, Python
-- Tools: Git, Docker
+- Tools: Git,Blender
 - Libraries: NLTK, TensorFlow
 
 ## Profile Views
